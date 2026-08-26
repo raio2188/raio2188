@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**raio2188/raio2188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante
+💻 Desenvolvedor
+🎮 Gamer
+🎲 RPG enthusiast
+🎨 Modelagem 3D
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML / CSS / JavaScript
+- Python
+- Git / GitHub
+- Linux
+- SQL
+
+## 🚀 Projetos
+
+### Empório Arcano
+E-commerce temático de RPG desenvolvido para projeto acadêmico.
+
+## 🎮 Atualmente fazendo
+
+- Desenvolvimento web
+- Modelagem 3D
+- Game development
+- RPG
